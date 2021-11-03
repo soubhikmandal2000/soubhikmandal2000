@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Frontend Web Development & Python**
 
-- 📄 Know about my experiences [https://soubhikmandal2000.github.io/cvforsoubhik/about.html](https://soubhikmandal2000.github.io/cvforsoubhik/about.html)
+- 📄 Know about my experiences [Click Here](https://soubhikmandal2000.github.io/Portfolio-website/about.html)
 
  <br/>
   <p align="center">
