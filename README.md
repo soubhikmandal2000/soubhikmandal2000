@@ -1,5 +1,5 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&color=%2300BFFF&size=40&width=550&height=60&lines=I+am+Soubhik+Mandal;I+am+a+Website+Developer;I+am+a+Python+Coder;I+am+an+Arudino+Developer"></h1>
-<h3 align="center">I am an Indian based Electronics and Communications Engineer by Education & Noob Arudino Developer, Python Coder and Website Developer by Passion focused on creating new clean designs and building user friendly projects which might improves life's of people living around me.</h3>
+<h3 align="center">I am an Indian-based Electronics and Communications Engineer by Education & Noob Arudino Developer, Python Coder and Website Developer by Passion focused on creating new clean designs and building user-friendly projects which might improve the lives of people living around me.</h3>
 
 <h3><img align="right" img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="soubhikmandal2000" /></h3>
 
