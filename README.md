@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on [Smart Mirror](https://github.com/soubhikmandal2000/Smart_mirror)
 
-- 🤝 I’m looking for help with [Resume Website](https://github.com/soubhikmandal2000/cvforsoubhik)
+- 🤝 I’m looking for help with [Resume Website](https://soubhikmandal2000.github.io/Portfolio-website/)
 
-- 👨‍💻 All of my projects are available at [https://github.com/soubhikmandal2000/Portfolio-website](https://soubhikmandal2000.github.io/Portfolio-website/)
+- 👨‍💻 All of my projects are available at [Repositories](https://github.com/soubhikmandal2000?tab=repositories)
 
 - 📝 I regularly write articles on [unknowndada.blogspot.com](https://unknowndada.blogspot.com/)
 
