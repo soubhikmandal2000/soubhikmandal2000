@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Resume Website](https://github.com/soubhikmandal2000/cvforsoubhik)
 
-- 👨‍💻 All of my projects are available at [soubhikmandal2000.github.io/cvforsoubhik](https://soubhikmandal2000.github.io/cvforsoubhik/)
+- 👨‍💻 All of my projects are available at [https://github.com/soubhikmandal2000/Portfolio-website](https://soubhikmandal2000.github.io/Portfolio-website/)
 
 - 📝 I regularly write articles on [unknowndada.blogspot.com](https://unknowndada.blogspot.com/)
 
