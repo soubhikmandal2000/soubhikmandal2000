@@ -11,13 +11,13 @@
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/soubhikmandal2000?tab=repositories)
 
-- 📝 I regularly write articles on [unknowndada.blogspot.com](https://unknowndada.blogspot.com/)
+- 📝 I regularly write articles on [Blogspot](https://unknowndada.blogspot.com/)
 
-- 🌱 I’m currently learning **Data Science & Full Stack Web Development**
+- 📄 Know about my experiences [Click Here](https://soubhikmandal2000.github.io/Portfolio-website/about.html)
 
 - 💬 Ask me about **Frontend Web Development & Python**
 
-- 📄 Know about my experiences [Click Here](https://soubhikmandal2000.github.io/Portfolio-website/about.html)
+- 🌱 I’m currently learning **Data Science & Full Stack Web Development**
 
  <br/>
   <p align="center">
