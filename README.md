@@ -1,7 +1,7 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&color=%2300BFFF&size=40&width=550&height=60&lines=I+am+Soubhik+Mandal;I+am+a+Website+Developer;I+am+a+Python+Coder;I+am+an+Arudino+Developer"></h1>
 <h3 align="center">I am an Indian-based Electronics and Communications Engineer by Education & Noob Arudino Developer, Python Coder and Website Developer by Passion focusing on creating new clean designs with building user-friendly projects which might improve the lives of people living around me.</h3>
 
-<h3><img align="right" img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="soubhikmandal2000" /></h3>
+<h3><img align="right" img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="soubhikmandal2000"  height="300px"/></h3>
 
 - 🔭 I’m currently working on [Real-time Traffic Rule Monitoring System](https://github.com/soubhikmandal2000/Real-time_traffic_rule_monitoring_system)
 
@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Blogspot](https://unknowndada.blogspot.com/)
 
-- 📄 Know about my experiences [Click Here](https://soubhikmandal2000.github.io/Portfolio-website/about.html)
+- 📄 Know about my experiences [Click Here](https://soubhikmandal2000.github.io/minimalist-tech-portfolio/home.html)
 
 - 💬 Ask me about **Frontend Web Development & Python**
 
