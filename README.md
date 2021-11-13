@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&color=%2300BFFF&size=40&width=650&height=60&lines=I+am+Soubhik+Mandal;I+am+a+Newbie+Web+Developer;I+am+a+Newbie+Python+Coder;I+am+a+Newbie+Arudino+Developer"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&color=%2300BFFF&size=36&width=590&height=60&lines=I+am+Soubhik+Mandal;I+am+a+Newbie+Web+Developer;I+am+a+Newbie+Python+Coder;I+am+a+Newbie+Arudino+Developer"></h1>
 <h3 align="center">I am an Indian-based Electronics and Communications Engineer by Education & Newbie Arudino Developer, Python Coder and Website Developer by Passion focusing on creating new clean designs with building user-friendly projects which might improve the lives of people living around me.</h3>
 
 <h3><img align="right" img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="soubhikmandal2000"  height="300px"/></h3>
@@ -13,12 +13,11 @@
 
 - 📝 I regularly write articles on [Blogspot](https://unknowndada.blogspot.com/)
 
-- 📄 Know about my experiences [Click Here](https://soubhikmandal2000.github.io/minimalist-tech-portfolio/home.html)
+- 💬 Know about my experiences [Click Here](https://soubhikmandal2000.github.io/minimalist-tech-portfolio/home.html)
 
-- 💬 Ask me about **Frontend Web Development & Python**
+- 📄 Checkout my certifications [here](https://drive.google.com/file/d/1HdJtvEdwvK-ibAdT0EgcMimRdsjRRrqd/view?usp=sharing)
 
-- 🌱 I’m currently learning **Data Science & Full Stack Web Development**
-
+- 🌱 I’m currently learning **Data Science**
  <br/>
   <p align="center">
     <a href="https://github.com/soubhikmandal2000"><img align="center" alt="Soubhik Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=soubhikmandal2000&show_icons=true&count_private=true&theme=default&hide_border=true" height="194px"/></a>
