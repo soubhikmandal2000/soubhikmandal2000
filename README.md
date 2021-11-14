@@ -3,21 +3,21 @@
 
 <h3><img align="right" img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="soubhikmandal2000"  height="300px"/></h3>
 
-- 🔭 I’m currently working on [Real-time Traffic Rule Monitoring System](https://github.com/soubhikmandal2000/Real-time_traffic_rule_monitoring_system)
+- 🔭 I’m currently working on [Real-time Traffic Rule Monitoring System.](https://github.com/soubhikmandal2000/Real-time_traffic_rule_monitoring_system)
 
-- 👯 I’m looking to collaborate on [Smart Mirror](https://github.com/soubhikmandal2000/Smart_mirror)
+- 👯 I’m looking to collaborate on [Smart Mirror.](https://github.com/soubhikmandal2000/Smart_mirror)
 
-- 🤝 I’m looking for help with [Resume Website](https://soubhikmandal2000.github.io/Portfolio-website/)
+- 🤝 I’m looking for help with [Resume Website.](https://github.com/soubhikmandal2000/Portfolio-website)
 
-- 👨‍💻 All of my projects are available at [Repositories](https://github.com/soubhikmandal2000?tab=repositories)
+- 👨‍💻 All of my projects are available at [Repositories.](https://github.com/soubhikmandal2000?tab=repositories)
 
-- 📝 I regularly write articles on [Blogspot](https://unknowndada.blogspot.com/)
+- 📝 I regularly write articles on [Blogspot.](https://unknowndada.blogspot.com/)
 
-- 💬 Know about my experiences [Click Here](https://soubhikmandal2000.github.io/minimalist-tech-portfolio/home.html)
+- 💬 Know about my experiences [Click Here.](https://soubhikmandal2000.github.io/minimalist-tech-portfolio/home.html)
 
-- 📄 Checkout my certifications [here](https://drive.google.com/file/d/1HdJtvEdwvK-ibAdT0EgcMimRdsjRRrqd/view?usp=sharing)
+- 📄 Checkout my certifications [here.](https://drive.google.com/file/d/1HdJtvEdwvK-ibAdT0EgcMimRdsjRRrqd/view?usp=sharing)
 
-- 🌱 I’m currently learning **Data Science**
+- 🌱 I’m currently learning **Data Science.**
  <br/>
   <p align="center">
     <a href="https://github.com/soubhikmandal2000"><img align="center" alt="Soubhik Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=soubhikmandal2000&show_icons=true&count_private=true&theme=default&hide_border=true" height="194px"/></a>
