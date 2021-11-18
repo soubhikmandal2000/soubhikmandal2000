@@ -1,9 +1,9 @@
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&color=%2300BFFF&size=36&width=590&height=60&lines=I+am+Soubhik+Mandal;I+am+a+Newbie+Web+Developer;I+am+a+Newbie+Python+Coder;I+am+a+Newbie+Arudino+Developer"></h1>
-<h3 align="center">I am an Indian-based Electronics and Communications Engineer by Education & Newbie Arudino Developer, Python Coder and Website Developer by Passion focusing on creating new clean designs with building user-friendly projects which might improve the lives of people living around me.</h3>
+<h3 align="center">I am an Indian-based Electronics and Communications Engineer by Education & Newbie Python Coder and Website Developer by Passion focusing on creating new clean designs with building user-friendly projects which might improve the lives of people living around me.</h3>
 
 <h3><img align="right" img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="soubhikmandal2000"  height="300px"/></h3>
 
-- 🔭 I’m currently working on [Real-time Traffic Rule Monitoring System.](https://github.com/soubhikmandal2000/Real-time_traffic_rule_monitoring_system)
+- 🔭 I’m currently working on **Data Analytics Projects**.
 
 - 👯 I’m looking to collaborate on [Smart Mirror.](https://github.com/soubhikmandal2000/Smart_mirror)
 
