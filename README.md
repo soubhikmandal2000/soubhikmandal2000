@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&color=%2300BFFF&size=36&width=590&height=60&lines=I+am+Soubhik+Mandal;I+am+a+Newbie+Web+Developer;I+am+a+Newbie+Python+Coder;I+am+a+Newbie+Arudino+Developer"></h1>
+<h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&color=%2300BFFF&size=36&width=590&height=60&lines=I+am+Soubhik+Mandal;I+am+a+Newbie+Web+Developer;I+am+a+Newbie+Python+Coder"></h1>
 <h3 align="center">I am an Indian-based Electronics and Communications Engineer by Education & Newbie Python Coder and Website Developer by Passion focusing on creating new clean designs with building user-friendly projects which might improve the lives of people living around me.</h3>
 
 <h3><img align="right" img src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" alt="soubhikmandal2000"  height="300px"/></h3>
@@ -27,18 +27,11 @@
  
 </details>
 
-<!--Contribution Graph-->
-</br>
-
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=soubhikmandal2000&bg_color=FFFFFF&color=000000&line=00BFFF&area_color=00FFFF&point=FFFFFF&hide_border=true&area=true)
-
-</br>
-
 <h1 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Bold&color=%2300BFFF&size=36&width=550&height=60&lines=Let's+Connect+with+Whatsapp;Let's+Connect+with+Github;Let's+Connect+with+Linkedin;Let's+Connect+with+Gmail"></h1>
 
 <p align="center">
-<a href="mailto:soubhikmandal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href = "https://www.linkedin.com/in/soubhik-mandal-29a59a1bb/" target= "_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:soubhikmandal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href ="https://github.com/soubhikmandal2000"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
 <a href="https://wa.me/918900923226"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 </p>
