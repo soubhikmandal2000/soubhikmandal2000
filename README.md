@@ -15,7 +15,7 @@
 
 - 💬 Know about my experiences [Click Here.](https://soubhikmandal2000.github.io/minimalist-tech-portfolio/home.html)
 
-- 📄 Checkout my certifications [here.](https://drive.google.com/file/d/1HdJtvEdwvK-ibAdT0EgcMimRdsjRRrqd/view?usp=sharing)
+- 📄 Checkout my certifications [here.](https://github.com/soubhikmandal2000/Soubhik-Mandal)
 
 - 🌱 I’m currently learning **Data Science.**
  <br/>
