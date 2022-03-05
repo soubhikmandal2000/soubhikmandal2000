@@ -17,7 +17,7 @@
 
 - 📄 Checkout my certifications [here.](https://github.com/soubhikmandal2000/Soubhik-Mandal)
 
-- 🌱 I’m currently learning **Data Science.**
+- 🌱 I’m currently learning **Data Science** and doing internship in **Advance Java Domain**.
  <br/>
   <p align="center">
     <a href="https://github.com/soubhikmandal2000"><img align="center" alt="Soubhik Mandal's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=soubhikmandal2000&show_icons=true&count_private=true&theme=default&hide_border=true" height="194px"/></a>
